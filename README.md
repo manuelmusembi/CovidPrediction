@@ -1,1 +1,1 @@
-# covidPrediction
+# CovidPrediction
